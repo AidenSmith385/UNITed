@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    text-decoration: underline overline;
+}
+
+h1 #unit {
+	color: darkred;
+}
+
+h1 #ED {
+	color: #ad9866;
+}
+
+main {
+	background-color: grey;
+	padding: 5px;
+} 

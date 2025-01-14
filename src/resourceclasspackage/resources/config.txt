@@ -1,0 +1,5 @@
+#Mon May 06 15:54:36 EDT 2024
+logoPath=src/resourceclasspackage/resources/unitED_Logo.png
+R=153
+G=0
+B=0
